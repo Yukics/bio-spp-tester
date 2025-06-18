@@ -1,4 +1,3 @@
-// import { readdir } from "fs/promises";
 import { readdirSync } from 'fs';
 
 export function changeTest(testName: string) {
